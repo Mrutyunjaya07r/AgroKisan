@@ -1,0 +1,15 @@
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profilepic{
+    background-image: url('./Component/Mrutyunjayapic.jpg');
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    background-size: cover;
+    margin: 10px;
+    
+}

@@ -1,0 +1,6 @@
+.profilepic{
+    background-image: url('./Component/Mrutyunjaya.jpg');
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
