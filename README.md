@@ -62,4 +62,5 @@ npm test
 Let me know if you'd like this saved as a .md or .txt file!
 
 1.Home page
-https://github.com/user-attachments/assets/0d3bf5cd-5675-43c1-8589-2c3a94861022
+C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-07-25 151623.png
+
