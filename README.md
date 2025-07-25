@@ -62,5 +62,5 @@ npm test
 Let me know if you'd like this saved as a .md or .txt file!
 
 1.Home page
-C:\Users\Admin\Pictures\Screenshots\Screenshot 2025-07-25 151623.png
+<img width="1906" height="987" alt="Image" src="https://github.com/user-attachments/assets/92cddf0e-76a6-4c63-a6f1-5c74ad86cca8" />[](url)
 
